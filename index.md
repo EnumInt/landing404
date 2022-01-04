@@ -1,2 +1,2 @@
-#Coming Soon!
+# Coming Soon!
 server is not up rn working on it...
